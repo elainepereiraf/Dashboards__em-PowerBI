@@ -10,4 +10,4 @@
 
 **Conclusão:** Com este conjunto de dados transformados em gráficos, facilita o professor em dar seu parecer sobre algum aluno específico de uma determinada turma nas reuniões pedagógicas de conselho de classe, numa instituição de ensino.
 
-**Acesso ao painel:** https://app.powerbi.com/view?r=eyJrIjoiYmFhZjZiNzMtYzgwYy00NWUxLWJkODgtMzc4YjU3ZDg0ODZlIiwidCI6IjgxMTdlMjFmLWQ0MmEtNDBlYi1hZjY0LWRiNWFiMzdjMGExMiJ9&pageName=ReportSection
+**Acesso ao painel:** https://bityli.com/aQvpzYxJb
