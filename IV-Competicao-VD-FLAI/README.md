@@ -14,4 +14,4 @@ Promovido pelo Programa FLAI aos alunos membros. Meu *segundo* dashboard. Minha 
 
 **Submissão:** submetido em 20 de Setembro de 2022.
 
-**Acesso ao painel:** https://app.powerbi.com/view?r=eyJrIjoiNTU5YjNlMGYtOTEyNC00ZjJlLTlkOTEtZjFkNWZjMjMzYWIzIiwidCI6IjgxMTdlMjFmLWQ0MmEtNDBlYi1hZjY0LWRiNWFiMzdjMGExMiJ9
+**Acesso ao painel:** https://bityli.com/AEQUVtvyV
